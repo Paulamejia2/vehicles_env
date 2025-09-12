@@ -12,4 +12,6 @@ Histograma para analizar la distribución de valores, como el kilometraje (odome
 
 Gráfico de dispersión para explorar la relación entre variables, por ejemplo price vs odometer.
 
-Interactividad: los usuarios pueden elegir qué gráfico visualizar mediante casillas de verificación (checkboxes) o botones.
+Los usuarios pueden elegir qué gráfico visualizar mediante casillas (checkboxes).
+
+Link de la app: https://vehicles-env-ht6r.onrender.com
